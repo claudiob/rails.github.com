@@ -9,3 +9,4 @@ defaults:
   -
     values:
       layout:  "default"
+baseurl: /rails.github.com
